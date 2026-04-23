@@ -1,0 +1,12 @@
+.container {
+  padding: 20px;
+}
+
+.page {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.page h1 {
+  margin-bottom: 10px;
+}
